@@ -1,0 +1,20 @@
+{
+    "contacts": [
+        {
+            "full_name": "Rakesh Sompura",
+            "phone_number": "123456"
+        },
+        {
+            "full_name": "Tejal Sompura",
+            "phone_number": "456789"
+        },
+        {
+            "full_name": "Vivaan Sompura",
+            "phone_number": "123456"
+        },
+        {
+            "full_name": "Hriti Sompura",
+            "phone_number": "123456"
+        }
+    ] 
+}
